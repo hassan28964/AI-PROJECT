@@ -1,0 +1,16 @@
+section,course_id,course_name,teacher_id,teacher_name,day,start,end,room_id,room_name
+BCY-3A,AI,Artificial Intelligence,T1,Dr. Ahmed,Monday,09:00,10:30,R201,Computer Lab 201
+BCY-3B,AI,Artificial Intelligence,T1,Dr. Ahmed,Monday,11:00,12:30,R201,Computer Lab 201
+BCY-3C,AI,Artificial Intelligence,T1,Dr. Ahmed,Monday,13:00,14:30,R201,Computer Lab 201
+BCY-3A,DB,Database Systems,T2,Ms. Sara,Monday,13:00,14:30,R101,Lecture Room 101
+BCY-3B,DB,Database Systems,T2,Ms. Sara,Tuesday,09:00,10:30,R102,Lecture Room 102
+BCY-3C,DB,Database Systems,T2,Ms. Sara,Monday,11:00,12:30,R101,Lecture Room 101
+BCY-3A,OS,Operating Systems,T3,Mr. Bilal,Monday,15:00,16:30,R101,Lecture Room 101
+BCY-3B,OS,Operating Systems,T3,Mr. Bilal,Monday,09:00,10:30,R101,Lecture Room 101
+BCY-3C,OS,Operating Systems,T3,Mr. Bilal,Tuesday,11:00,12:30,R101,Lecture Room 101
+BCY-3A,CN,Computer Networks,T4,Dr. Hina,Monday,11:00,12:30,R202,Computer Lab 202
+BCY-3B,CN,Computer Networks,T4,Dr. Hina,Monday,13:00,14:30,R202,Computer Lab 202
+BCY-3C,CN,Computer Networks,T4,Dr. Hina,Monday,09:00,10:30,R202,Computer Lab 202
+BCY-3A,CY,Cyber Security,T5,Mr. Usman,Tuesday,09:00,10:30,R101,Lecture Room 101
+BCY-3B,CY,Cyber Security,T5,Mr. Usman,Monday,15:00,16:30,R102,Lecture Room 102
+BCY-3C,CY,Cyber Security,T5,Mr. Usman,Tuesday,13:00,14:30,R101,Lecture Room 101
