@@ -1,0 +1,84 @@
+{
+  "time_slots": [
+    {"id": "MON1", "day": "Monday", "start": "09:00", "end": "10:30"},
+    {"id": "MON2", "day": "Monday", "start": "11:00", "end": "12:30"},
+    {"id": "MON3", "day": "Monday", "start": "13:00", "end": "14:30"},
+    {"id": "MON4", "day": "Monday", "start": "15:00", "end": "16:30"},
+    {"id": "TUE1", "day": "Tuesday", "start": "09:00", "end": "10:30"},
+    {"id": "TUE2", "day": "Tuesday", "start": "11:00", "end": "12:30"},
+    {"id": "TUE3", "day": "Tuesday", "start": "13:00", "end": "14:30"},
+    {"id": "TUE4", "day": "Tuesday", "start": "15:00", "end": "16:30"},
+    {"id": "WED1", "day": "Wednesday", "start": "09:00", "end": "10:30"},
+    {"id": "WED2", "day": "Wednesday", "start": "11:00", "end": "12:30"},
+    {"id": "WED3", "day": "Wednesday", "start": "13:00", "end": "14:30"},
+    {"id": "WED4", "day": "Wednesday", "start": "15:00", "end": "16:30"},
+    {"id": "THU1", "day": "Thursday", "start": "09:00", "end": "10:30"},
+    {"id": "THU2", "day": "Thursday", "start": "11:00", "end": "12:30"},
+    {"id": "THU3", "day": "Thursday", "start": "13:00", "end": "14:30"},
+    {"id": "THU4", "day": "Thursday", "start": "15:00", "end": "16:30"},
+    {"id": "FRI1", "day": "Friday", "start": "09:00", "end": "10:30"},
+    {"id": "FRI2", "day": "Friday", "start": "11:00", "end": "12:30"},
+    {"id": "FRI3", "day": "Friday", "start": "13:00", "end": "14:30"},
+    {"id": "FRI4", "day": "Friday", "start": "15:00", "end": "16:30"}
+  ],
+  "teachers": [
+    {"id": "T1", "name": "Dr. Ahmed"},
+    {"id": "T2", "name": "Ms. Sara"},
+    {"id": "T3", "name": "Mr. Bilal"},
+    {"id": "T4", "name": "Dr. Hina"},
+    {"id": "T5", "name": "Mr. Usman"}
+  ],
+  "rooms": [
+    {"id": "R101", "name": "Lecture Room 101", "capacity": 45, "room_type": "Theory"},
+    {"id": "R102", "name": "Lecture Room 102", "capacity": 60, "room_type": "Theory"},
+    {"id": "R201", "name": "Computer Lab 201", "capacity": 35, "room_type": "Lab"},
+    {"id": "R202", "name": "Computer Lab 202", "capacity": 40, "room_type": "Lab"}
+  ],
+  "courses": [
+    {
+      "id": "AI",
+      "name": "Artificial Intelligence",
+      "teacher_id": "T1",
+      "sections": ["BCY-3A", "BCY-3B", "BCY-3C"],
+      "students": 30,
+      "room_type": "Lab",
+      "sessions_per_week": 1
+    },
+    {
+      "id": "DB",
+      "name": "Database Systems",
+      "teacher_id": "T2",
+      "sections": ["BCY-3A", "BCY-3B", "BCY-3C"],
+      "students": 35,
+      "room_type": "Theory",
+      "sessions_per_week": 1
+    },
+    {
+      "id": "OS",
+      "name": "Operating Systems",
+      "teacher_id": "T3",
+      "sections": ["BCY-3A", "BCY-3B", "BCY-3C"],
+      "students": 32,
+      "room_type": "Theory",
+      "sessions_per_week": 1
+    },
+    {
+      "id": "CN",
+      "name": "Computer Networks",
+      "teacher_id": "T4",
+      "sections": ["BCY-3A", "BCY-3B", "BCY-3C"],
+      "students": 28,
+      "room_type": "Lab",
+      "sessions_per_week": 1
+    },
+    {
+      "id": "CY",
+      "name": "Cyber Security",
+      "teacher_id": "T5",
+      "sections": ["BCY-3A", "BCY-3B", "BCY-3C"],
+      "students": 40,
+      "room_type": "Theory",
+      "sessions_per_week": 1
+    }
+  ]
+}
