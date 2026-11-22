@@ -1,0 +1,41 @@
+trial,algorithm,success,nodes,backtracks,runtime_ms
+1,Basic Backtracking,True,18,0,0.0432
+1,MRV + Forward Checking,True,15,0,3.3736
+2,Basic Backtracking,True,17,0,0.0202
+2,MRV + Forward Checking,True,15,0,2.7936
+3,Basic Backtracking,True,23,0,0.0271
+3,MRV + Forward Checking,True,15,0,3.1035
+4,Basic Backtracking,True,23,0,0.026
+4,MRV + Forward Checking,True,15,0,2.518
+5,Basic Backtracking,True,17,0,0.0198
+5,MRV + Forward Checking,True,15,0,3.3908
+6,Basic Backtracking,True,19,0,0.0216
+6,MRV + Forward Checking,True,15,0,2.786
+7,Basic Backtracking,True,19,0,0.0821
+7,MRV + Forward Checking,True,15,0,4.8606
+8,Basic Backtracking,True,19,0,0.0401
+8,MRV + Forward Checking,True,15,0,3.336
+9,Basic Backtracking,True,22,0,0.0318
+9,MRV + Forward Checking,True,15,0,5.6783
+10,Basic Backtracking,True,21,0,0.0266
+10,MRV + Forward Checking,True,15,0,2.5314
+11,Basic Backtracking,True,22,0,0.0254
+11,MRV + Forward Checking,True,15,0,2.9913
+12,Basic Backtracking,True,19,0,0.0212
+12,MRV + Forward Checking,True,15,0,2.4983
+13,Basic Backtracking,True,16,0,0.018
+13,MRV + Forward Checking,True,15,0,2.3884
+14,Basic Backtracking,True,20,0,0.0208
+14,MRV + Forward Checking,True,15,0,2.6762
+15,Basic Backtracking,True,18,0,0.0212
+15,MRV + Forward Checking,True,15,0,2.4068
+16,Basic Backtracking,True,17,0,0.0205
+16,MRV + Forward Checking,True,15,0,2.4707
+17,Basic Backtracking,True,15,0,0.0186
+17,MRV + Forward Checking,True,15,0,2.4168
+18,Basic Backtracking,True,17,0,0.0196
+18,MRV + Forward Checking,True,15,0,2.3458
+19,Basic Backtracking,True,17,0,0.0197
+19,MRV + Forward Checking,True,15,0,2.3925
+20,Basic Backtracking,True,19,0,0.0205
+20,MRV + Forward Checking,True,15,0,2.3443
